@@ -1,0 +1,15 @@
+{
+  "name": "festivalsofindia",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
